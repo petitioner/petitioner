@@ -75,3 +75,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+會一點法語 主要原因Alize在其復出後變成了白人大嬸 but still like her song
+另一個原因是小時候的青梅竹馬劉璐本科學得法語 who was always competing to each other and being the role model 頭each other and who finally become to my important life-along female friend
