@@ -1,28 +1,14 @@
-[![GitHub: zoelabbb](https://img.shields.io/github/followers/zoelabbb?label=follow&style=social)](https://github.com/zoelabbb)&nbsp;
-<h1 align="center">Hi 👋, I'm Alif Ryuu</h1>
-<h3 align="center">A passionate Backend Developer & Cyber Security from Indonesia 🇮🇩</h3>
-
-- 🌱 I’m currently learning **Penetration Testing**
-- ⚡ Fun fact : I like food ahahaha
-- 🕵️‍♂️ TryHackMe & HTB Academy
+[![GitHub: petitioner](https://img.shields.io/github/followers/petitioner?label=follow&style=social)](https://github.com/petitioner)&nbsp;
+<h1 align="center">Hi 👋, I'm Li-Yue Sun or perferred John C. Smith</h1>
+<h3 align="center">A person who enjoys doing scientific research</h3>
 
     <p> <img src="https://tryhackme-badges.s3.amazonaws.com/H1zoe.png" alt="TryHackMe"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoelabbb&show_icons=true&locale=en&theme=aura&hide_border=true" alt="zoelabbb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petitioner&show_icons=true&locale=en&theme=aura&hide_border=true" alt="petitioner" /></p>
 
 <hr>
 
-### FRONTEND
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### BACKEND & DATABASE
-
-![CI](https://img.shields.io/badge/-Codeigniter-404D59?style=for-the-badge&logo=codeigniter) ![Go](https://img.shields.io/badge/-GO-07405E?style=for-the-badge&logo=go)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-0B0D0E?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
 ### LANGUAGES & TOOLS
 
