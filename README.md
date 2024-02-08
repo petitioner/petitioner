@@ -47,7 +47,9 @@
 [![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-0B0D0E?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/ikoo)
 [![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge&logo=MasterCard)](https://www.teer.id/ikoo)
 
-<!--
+<!--會一點法語 主要原因Alize在其復出後變成了白人大嬸 but still like her song
+另一個原因是小時候的青梅竹馬劉璐本科學得法語 who was always competing to each other and being the role model 頭each other and who finally become to my important life-along female friend
+
 **zoelabbb/zoelabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -63,5 +65,3 @@ Here are some ideas to get you started:
 -->
 
 
-會一點法語 主要原因Alize在其復出後變成了白人大嬸 but still like her song
-另一個原因是小時候的青梅竹馬劉璐本科學得法語 who was always competing to each other and being the role model 頭each other and who finally become to my important life-along female friend
